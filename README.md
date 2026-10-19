@@ -1,0 +1,2 @@
+# premium-ukulele-craft-001-ukulele-build-specifications-h
+Tired of scrappy notes and lost measurements? Your next build starts here.  The Ukulele Build Specifications Hub is a Notion template that centralizes every dimension, wood choice, and bracing detail for your ukulele projects. Instead of juggling sticky notes and sketchbooks, you get a clean, searchable database that keeps all your specs in one pla
